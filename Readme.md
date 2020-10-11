@@ -26,4 +26,4 @@ Select link below to view live refactored webpage
 <p>
 See below for screenshot of responsive webpage
 <br>
-<img src="Screenshot 2020-10-10 23.47.07" alt="Screenshot of Refactored webpage">
+<img src="assets/screenshot.png" alt="Screenshot of Responsive webpage">
