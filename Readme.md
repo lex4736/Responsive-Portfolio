@@ -26,4 +26,4 @@ Select link below to view live refactored webpage
 <p>
 See below for screenshot of responsive webpage
 <br>
-<img src="assets/screenshot.png" alt="Screenshot of Responsive webpage">
+<img src="https://github.com/lex4736/Responsive-Portfolio/blob/master/Assets/Screenshot.png" alt="Screenshot of Responsive webpage">
